@@ -1,6 +1,5 @@
 **/.DS_Store
 **/*.pyc
-**/config.ini
 **/node_modules/**
 dist/**
 docs/_build
